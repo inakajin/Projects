@@ -1,0 +1,12 @@
+#name {
+  font-weight: bold;
+}
+/*#email {
+  float: left
+}
+#address {
+  float: left
+}*/
+#pic {
+  position: absolute; right:0; top:0;
+}
